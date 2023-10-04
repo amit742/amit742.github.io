@@ -1,0 +1,70 @@
+* {
+    background-color: rgb(20,20,20);
+    font-family: Montserrat;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: xxx-large;
+}
+
+h2 {
+    text-align: left;
+    font-weight: 400;
+}
+
+.CheatSheet {
+    color: hotpink;
+    text-align: center;
+    font-family: pacifico;
+    position: relative;
+    top: -40px;
+}
+
+td {
+    margin: 0;
+    padding: 15px;
+}
+
+table {
+    position: relative;
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgb(40,40,40);
+    padding: 1px;
+    border-radius: 15px;
+}
+
+th {
+    background-color: rgb(40,40,40);
+    padding: 15px;
+    font-weight: 400;
+    color: gray
+}
+
+.tag {
+    font-family: Martian Mono, monospace;
+    color: hotpink;
+    font-size: 50;
+}
+
+footer {
+    height: 100px;
+    position: relative;
+    top: 50px;
+}
+
+.space {
+    height: 70px;
+}
+
+.description {
+    text-align: left;
+}

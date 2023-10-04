@@ -1,0 +1,33 @@
+* {
+    background-color: lightgray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+td {
+    margin: 0;
+    text-align: left;
+    background-color: white;
+    padding: 5px;
+}
+
+table {
+    position: relative;
+    width: 600px;
+    margin: 0 auto;
+    background-color: blue;
+    padding: 2px;
+}
+
+th {
+    background-color: lightblue;
+    padding: 5px;
+}
+
+.tag {
+    font-family: monospace;  
+    background-color: lightgoldenrodyellow;  
+}
